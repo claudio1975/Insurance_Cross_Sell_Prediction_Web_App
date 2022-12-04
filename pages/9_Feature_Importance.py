@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
+import matplotlib
 import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 import seaborn as sns
