@@ -11,3 +11,5 @@ In this project, using a dataset coming from an Hackathon, the goal is to predic
 This goal is relevant for Insurance Companies because in last years they're are becoming data-driven oriented and customer oriented following other Companies from different fields. Cross-selling modelling can lead Insurance Companies towards marketing strategies oriented to raising revenue.
 
 A Web App is a storytelling tool for the comunication inside the office and the organization about results, relevant features and understand in a friendly way data providing at the management a tool to take decisions.  
+
+App link: https://insurance-cross-selling-app.herokuapp.com/
