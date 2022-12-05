@@ -6,9 +6,9 @@ One common technique is known as cross-selling which can lead to increase custom
 
 Cross-selling is a marketing strategy used to get a buyer to spend more by purchasing a product that’s related and or supplementary to what’s being bought already. 
 
-In this project, using a dataset coming from an Hackathon, the goal is to predict whether a customer from past year will also be interested in Vehicle Insurance provided by the company. 
+In this project, using a dataset coming from an Hackathon, the goal is to predict whether a customer from past year will also be interested in Vehicle Insurance provided by the Company. 
 
-This goal is relevant for Insurance Companies because in last years they're are becoming data-driven oriented and customer oriented following other Companies from different fields. Cross-selling modelling can lead Insurance Companies towards marketing strategies oriented to raising revenue.
+This goal is relevant for Insurance Companies because in last years they're are becoming data-driven oriented and customer oriented following other Companies strategy from different fields. Cross-selling modelling can lead Insurance Companies towards marketing strategies oriented to raising revenue.
 
 A Web App is a storytelling tool for the comunication inside the office and the organization about results, relevant features and understand in a friendly way data providing at the management a tool to take decisions.  
 
