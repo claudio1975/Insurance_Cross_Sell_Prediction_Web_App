@@ -13,3 +13,6 @@ This goal is relevant for Insurance Companies because in last years they're are 
 A Web App is a storytelling tool for the comunication inside the office and the organization about results, relevant features and understand in a friendly way data providing at the management a tool to take decisions.  
 
 App link: https://insurance-cross-selling-app.herokuapp.com/
+
+
+![](images/Cross-Selling-Tips.jpg)
