@@ -1,5 +1,8 @@
 # Insurance_Cross_Sell_Prediction_Web_App
 
+![](images/Cross-Selling-Tips.jpg)
+
+
 There are many ways to generate additional revenue for a Company. Introducing new products, offering additional services, or even raising prices. Though one of the most effective ways to increase revenue starts with how the Company sells its products to current and existing customers.
 
 One common technique is known as cross-selling which can lead to increase customer lifetime value.
@@ -15,4 +18,4 @@ A Web App is a storytelling tool for the comunication inside the office and the 
 App link: https://insurance-cross-selling-app.herokuapp.com/
 
 
-![](images/Cross-Selling-Tips.jpg)
+
