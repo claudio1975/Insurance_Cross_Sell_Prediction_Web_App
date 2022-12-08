@@ -122,6 +122,5 @@ shap.summary_plot(shap_values, features=X_test, feature_names=X_test.columns,plo
 st.pyplot(fig)
 
 st.markdown("""
-The most relevant feature with impact on the target variable is "Previously_Insured" followed by "Age", 
-"Annual_Premium" and "Gender".
+The most relevant feature with impact on the target variable is "Previously_Insured".
 """)
